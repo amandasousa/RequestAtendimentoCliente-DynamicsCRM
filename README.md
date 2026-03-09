@@ -1,4 +1,4 @@
-<img width="2039" height="8192" alt="image" src="https://github.com/user-attachments/assets/8f9bc590-cb55-4686-8422-b82db5d332de" /># Canal de Atendimento ao Cliente automático
+# Canal de Atendimento ao Cliente automático
 ## Projeto realizado no Microsoft Dynamics CRM 2011
 Este repositório trata-se da criação de uma feature que faz a automação e centralização do atendimento ao cliente (escolas) dentro do Microsoft Dynamics CRM 2011.
 
@@ -20,5 +20,5 @@ Requisitos técnicos que foram utilizados nessa feature:
 - Criação de view personalizada
 - Criação de 3 plugins Async
 
-
+# Data flow
 ![Data Flow](https://raw.githubusercontent.com/amandasousa/CanalAutomaticoAtendimentoCliente-DynamicsCRM/refs/heads/main/2%20-%20Processo%20de%20primeiro%20atendimento%20TO%20BE.png)
