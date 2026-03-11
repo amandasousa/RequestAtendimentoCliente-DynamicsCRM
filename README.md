@@ -1,4 +1,4 @@
-# Canal de Atendimento ao Cliente automático
+# Documentação - Automação de atendimento ao cliente
 ## Projeto realizado no Microsoft Dynamics CRM 2011
 > Autor: Amanda Sousa </br>
 > Toda a documentação contida nesse repositório foi preparada ou revisada por mim. </br>
